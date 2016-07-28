@@ -96,7 +96,7 @@ YUI.add('moodle-enrol_manual-quickenrolment', function(Y) {
             this.set(UEP.BASE, create('<div class="'+CSS.PANEL+' '+CSS.HIDDEN+'"></div>')
                 .append(create('<div class="'+CSS.WRAP+'"></div>')
                     .append(create('<div class="'+CSS.HEADER+' header"></div>')
-                        .append(create('<div class="'+CSS.CLOSE+'"></div>'))
+                        .append(create('<button class="'+CSS.CLOSE+'"></button>'))
                         .append(create('<h2>'+M.util.get_string('enrolusers', 'enrol')+'</h2>')))
                     .append(create('<div class="'+CSS.CONTENT+'"></div>')
                         .append(create('<div class="'+CSS.SEARCHCONTROLS+'"></div>')
