@@ -1,4 +1,3 @@
-!https://travis-ci.org/jgg9026/Moodle_core.svg?branch=master!:https://travis-ci.org/jgg9026/Moodle_core
                                  .-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
